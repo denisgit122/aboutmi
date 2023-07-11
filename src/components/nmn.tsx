@@ -1,7 +1,8 @@
 const Nmn = () => {
 return (
   <div>
-   Nmn
+   <h1>hhkjh</h1>
+
   </div>
 );
 };
